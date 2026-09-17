@@ -29,9 +29,10 @@ window.CONFIG = {
   // numero: DDI + DDD + número, SÓ DÍGITOS (sem +, espaço, parênteses ou traço).
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
-  whatsapp: {
-    numero: "5519994731678",
-    mensagem: "Olá! Confirmo minha presença no aniversário da Sofia Ongaro."
+  pix: {
+    ativo: true,
+    chave: "sofiaongaro.oficial@gmail.com",
+    posicao: {"left":19.86709265175719,"top":66.87686991496254,"width":58.43451103234824,"height":14.183894690828229}
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
@@ -89,7 +90,7 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":28.08498714556709,"top":83.36985391860709,"width":44.162933057108624,"height":5.498504068029966} },
+    presentes: { mostrarTexto:false, posicao: {"left":34.83259721944888,"top":90.27434171451719,"width":31.690092726637378,"height":4.692975224134311} },
     dresscode: { mostrarTexto:false, posicao: {"left":29.872530201677314,"top":88.26639619629475,"width":39.42493572783546,"height":5.079407992356909} },
     manual: { mostrarTexto:false, posicao: {"left":30.894878818889772,"top":88.38146704211364,"width":38.402555910543136,"height":5.194482130492144} }
   },
