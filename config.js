@@ -29,10 +29,9 @@ window.CONFIG = {
   // numero: DDI + DDD + número, SÓ DÍGITOS (sem +, espaço, parênteses ou traço).
   //         Ex.: 55 (Brasil) + 31 (DDD) + 985657116 -> "5531985657116"
   // mensagem: texto que já vem pré-preenchido quando a pessoa abre o WhatsApp.
-  pix: {
-    ativo: true,
-    chave: "sofiaongaro.oficial@gmail.com",
-    posicao: {"left":19.86709265175719,"top":66.87686991496254,"width":58.43451103234824,"height":14.183894690828229}
+  whatsapp: {
+    numero: "5519994731679",
+    mensagem: "Olá! Confirmo minha presença no seu aniversário Sofia Ongaro."
   },
 
   // ----- LOCALIZAÇÃO (BOTÃO MAPA) ----------------------------------------
