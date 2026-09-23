@@ -62,7 +62,7 @@ window.CONFIG = {
   pix: {
     ativo: true,
     chave: "sofiaongaro.oficial@gmail.com",
-    posicao: {"left":16.8,"top":64.0,"width":66.0,"height":8.2}
+    posicao: {"left":29.068355006988817,"top":77.46374330046548,"width":42.281153279752395,"height":4.287455159748895}
   },
 
   // ----- TEXTOS DOS BOTÕES -----------------------------------------------
@@ -89,7 +89,7 @@ window.CONFIG = {
   // mostrarTexto: true mostra “Voltar”; false deixa apenas a área clicável.
   // A posição pode ser alterada no editor ?editor=1.
   botoesVoltar: {
-    presentes: { mostrarTexto:false, posicao: {"left":34.83259721944888,"top":90.27434171451719,"width":31.690092726637378,"height":4.692975224134311} },
+    presentes: { mostrarTexto:false, posicao: {"left":34.423642172523955,"top":90.27434171451719,"width":31.690092726637378,"height":4.692975224134311} },
     dresscode: { mostrarTexto:false, posicao: {"left":29.872530201677314,"top":88.26639619629475,"width":39.42493572783546,"height":5.079407992356909} },
     manual: { mostrarTexto:false, posicao: {"left":30.894878818889772,"top":88.38146704211364,"width":38.402555910543136,"height":5.194482130492144} }
   },
